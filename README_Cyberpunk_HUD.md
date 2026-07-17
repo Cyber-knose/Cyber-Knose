@@ -1,15 +1,15 @@
 # <div align="center">⚡ CYBERKNOSE ⚡</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving\\\&color=0:00ffcc,100:6a00ff\\\&height=220\\\&text=PRIYANSHU%20JANGRA\\\&fontColor=ffffff\\\&fontSize=42"/>
+<img src="https://capsule-render.vercel.app/api?type=waving\\\\\\\&color=0:00ffcc,100:6a00ff\\\\\\\&height=220\\\\\\\&text=PRIYANSHU%20JANGRA\\\\\\\&fontColor=ffffff\\\\\\\&fontSize=42"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\\\&size=24\\\&duration=3000\\\&pause=1000\\\&center=true\\\&vCenter=true\\\&width=800\\\&lines=Cybersecurity+Engineer;OSINT+Researcher;AI+Security;Digital+Forensics;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\\\\\\\&size=24\\\\\\\&duration=3000\\\\\\\&pause=1000\\\\\\\&center=true\\\\\\\&vCenter=true\\\\\\\&width=800\\\\\\\&lines=Cybersecurity+Engineer;OSINT+Researcher;AI+Security;Digital+Forensics;Always+Learning"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME\\\&style=for-the-badge\\\&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME\\\\\\\&style=for-the-badge\\\\\\\&color=blue"/>
 </p>
 
 \---
@@ -35,20 +35,20 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Cyber-Knose\\\&show\\\_icons=true\\\&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Cyber-Knose\\\&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Cyber-knose\\\\\\\&show\\\\\\\_icons=true\\\\\\\&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=https://github.com/Cyber-knose\\\\\\\&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Knose\\\&layout=compact\\\&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Cyber-knose\\\\\\\&layout=compact\\\\\\\&theme=tokyonight"/>
 </p>
 
 
 
 # 📈 Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Knose\\\&theme=react-dark"/>
+<p align="center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Cyber-knose\\\\\\\&theme=react-dark"/>
 </p>
 
 
@@ -81,6 +81,6 @@ Replace with your links:
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving\\\&section=footer\\\&color=0:00ffcc,100:6a00ff\\\&height=140"/>
+<img src="https://capsule-render.vercel.app/api?type=waving\\\\\\\&section=footer\\\\\\\&color=0:00ffcc,100:6a00ff\\\\\\\&height=140"/>
 </p>
 
