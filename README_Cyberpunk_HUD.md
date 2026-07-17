@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME\\\\\\\&style=for-the-badge\\\\\\\&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Cyber-knose\\\\\\\&style=for-the-badge\\\\\\\&color=blue"/>
 </p>
 
 \---
@@ -35,12 +35,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Cyber-knose\\\\\\\&show\\\\\\\_icons=true\\\\\\\&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=https://github.com/Cyber-knose\\\\\\\&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cyber-knose\\\\\\\&show\\\\\\\_icons=true\\\\\\\&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cyber-knose\\\\\\\&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Cyber-knose\\\\\\\&layout=compact\\\\\\\&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-knose\\\\\\\&layout=compact\\\\\\\&theme=tokyonight"/>
 </p>
 
 
@@ -48,7 +48,7 @@
 # 📈 Activity
 
 <p align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Cyber-knose\\\\\\\&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-knose\\\\\\\&theme=react-dark"/>
 </p>
 
 
